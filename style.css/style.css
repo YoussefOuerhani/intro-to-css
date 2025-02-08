@@ -49,7 +49,7 @@ nav a {
 
 /* Use a child selector to target the img tag directly within article tags */
 article > img {
-  width: 100%;
+  width: 150;
   border-radius: 50%;
   filter: grayscale(100%);
   margin-top: 1em;
